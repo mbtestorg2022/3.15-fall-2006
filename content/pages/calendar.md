@@ -4,33 +4,417 @@ title: Calendar
 uid: 0f167f85-cb11-6e7b-9e76-193681008149
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Overview {{< br >}}{{< br >}} Carrier Fundamentals {{< br >}}{{< br >}}  |  |
-| 2 | Drift and Diffusion of Carriers | Problem set 1 out (Semiconductor Fundamentals) |
-| 3 | Recombination and Generation |  |
-| 4 | PN Junction at Equilibrium |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out (PN Junctions) {{< br >}}{{< br >}}  |
-| 5 | PN Junction Under Bias |  |
-| 6 | PN Junction: Ideal Diode |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out (PN, Transistor, MOS) {{< br >}}{{< br >}}  |
-| 7 | Bipolar Junction Transistor |  |
-| 8 | FETs and MOS |  |
-|  | Exam 1 (Up to Bipolar Transistor) |  |
-| 9 | Photodetectors and Photovoltaics |  |
-| 10 | Solar Cells |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out (Photodevices) {{< br >}}{{< br >}}  |
-| 11 | LEDs |  |
-| 12 | Lasers |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out (Lasers, LEDs) {{< br >}}{{< br >}}  |
-| 13 | Heterostructure Lasers |  |
-| 14 | Displays |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Term paper topic due {{< br >}}{{< br >}}  |
-| 15 | Optical Fibers |  |
-|  | Exam 2 (Up to Displays) |  |
-| 16 | Photonic Devices |  |
-| 17 | Magnetic Fundamentals |  |
-| 18 | Magnetic Materials |  {{< br >}}{{< br >}} Term paper due {{< br >}}{{< br >}} Problem set 6 out (Magnetic Fundamentals) {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Soft Materials {{< br >}}{{< br >}} Transformers {{< br >}}{{< br >}}  |  |
-| 20 |  {{< br >}}{{< br >}} Hard Materials {{< br >}}{{< br >}} Permanent Magnets {{< br >}}{{< br >}}  |  |
-| 21 | DC Motors |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Problem set 7 out (Magnetic Devices) {{< br >}}{{< br >}}  |
-| 22 | Magnetic Hard Disks and Tapes |  |
-| 23 | Magnetooptics | Problem set 7 due |
-| 24 | MRAMs, CDs and DVDs |  |
-| 25 | Review |  |
-|  | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview
+
+Carrier Fundamentals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Drift and Diffusion of Carriers
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out (Semiconductor Fundamentals)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Recombination and Generation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+PN Junction at Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out (PN Junctions)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+PN Junction Under Bias
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+PN Junction: Ideal Diode
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out (PN, Transistor, MOS)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Bipolar Junction Transistor
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+FETs and MOS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 (Up to Bipolar Transistor)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Photodetectors and Photovoltaics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Solar Cells
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out (Photodevices)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+LEDs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lasers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out (Lasers, LEDs)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Heterostructure Lasers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Displays
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Term paper topic due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Fibers
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 (Up to Displays)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Photonic Devices
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Fundamentals
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Materials
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Term paper due
+
+Problem set 6 out (Magnetic Fundamentals)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Soft Materials
+
+Transformers
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hard Materials
+
+Permanent Magnets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+DC Motors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Problem set 7 out (Magnetic Devices)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Hard Disks and Tapes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetooptics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+MRAMs, CDs and DVDs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
